@@ -17,10 +17,6 @@ SELECT name, population
 FROM world
 WHERE name IN ('France', 'Germany', 'Italy')
 ## Ans 6
-## Ans 7
-## Ans 8
-## Ans 9
-## Ans 10
-## Ans 11
-## Ans 12
-## Ans 13
+SELECT name
+FROM world
+WHERE name LIKE '%United%'
