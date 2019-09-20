@@ -1,4 +1,4 @@
-// https://sqlzoo.net/wiki/SELECT_basics
+<!-- https://sqlzoo.net/wiki/SELECT_basics -->
 
 ## Ans 1
 SELECT population FROM world
@@ -11,5 +11,3 @@ SELECT name, population FROM world
 ## Ans 3
 SELECT name, area FROM world
   WHERE area BETWEEN 200000 AND 250000
-
-## Ans 4
