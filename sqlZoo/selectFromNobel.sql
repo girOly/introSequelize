@@ -14,3 +14,9 @@ WHERE yr = 1962
 AND subject = 'Literature'
 
 ## Ans 3
+
+SELECT yr, subject
+FROM nobel
+WHERE winner = 'Albert Einstein'
+
+## Ans 4
