@@ -1,4 +1,4 @@
-<!-- https://sqlzoo.net/wiki/SELECT_basics -->
+-- https://sqlzoo.net/wiki/SELECT_basics
 
 -- ## Ans 1
 SELECT population FROM world

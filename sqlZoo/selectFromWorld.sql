@@ -1,4 +1,4 @@
-<!-- https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial -->
+-- https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial
 
 -- ## Ans 1
 
