@@ -56,9 +56,3 @@ WHERE continent = 'South America'
 SELECT name, ROUND(gdp/population, -3)
 FROM world
 WHERE gdp >= 1000000000000
-
-## Ans 11
-
-## Ans 12
-
-## Ans 13
