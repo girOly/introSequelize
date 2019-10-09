@@ -12,3 +12,9 @@ SELECT name
 FROM world
 WHERE gdp/population >
     (SELECT gdp/population FROM world WHERE name = 'United Kingdom') AND continent = 'Europe'
+
+-- ## Ans 3
+
+SELECT name, continent
+FROM world
+WHERE
